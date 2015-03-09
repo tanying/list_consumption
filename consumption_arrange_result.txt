@@ -1,200 +1,24 @@
-[*sync*/gmail-ls/com.google/test3alcatel14@gmail.com]: 30924
-[*sync*/com.android.contacts/com.google/test3alcatel14@gmail.com]: 22302
-[*sync*/com.google.android.apps.plus.content.EsProvider/com.google/test3alcatel14@gmail.com]: 11893
-[*sync*/com.google.android.gms.people/com.google/test3alcatel14@gmail.com]: 11638
-[SyncLoopWakeLock]: 11059
-[*sync*/subscribedfeeds/com.google/test3alcatel14@gmail.com]: 10856
-[AudioMix]: 10217
-[ActivityManager-Launch]: 8152
-[*backup*]: 7005
-[*sync*/com.google.android.apps.photos.GooglePhotoDownsyncProvider/com.google/test3alcatel14@gmail.com]: 6337
-[*sync*/com.google.android.apps.docs/com.google/test3alcatel14@gmail.com]: 6020
-[*sync*/com.google.android.apps.books/com.google/test3alcatel14@gmail.com]: 5181
-[StartingAlertService]: 5163
-[StartingAlertService]: 5094
-[StartingAlertService]: 5074
-[*sync*/com.android.calendar/com.google/test3alcatel14@gmail.com]: 4793
-[SyncManager]: 4664
-[*sync*/com.google.android.videos.sync/com.google/test3alcatel14@gmail.com]: 4432
-[*sync*/com.google.android.gms.games/com.google/test3alcatel14@gmail.com]: 4157
-[AudioMix]: 3900
-[*sync*/com.google.android.apps.plus.iu.EsGoogleIuProvider/com.google/test3alcatel14@gmail.com]: 3846
-[AudioMix]: 3507
-[AudioMix]: 3472
-[Icing]: 3279
-[*vibrator*]: 2797
-[AlarmManager]: 2758
-[Checkin Service]: 2506
-[WindowManager]: 2271
-[*sync*/com.google.android.gms.appstate/com.google/test3alcatel14@gmail.com]: 2249
-[BackgroundTaskService]: 2129
-[*sync*/com.google.android.location.reporting/com.google/test3alcatel14@gmail.com]: 2102
-[GmailProviderProviderChangedBroadcastWakeLock]: 2091
-[AudioMix]: 2010
-[AudioMix]: 2008
-[AudioMix]: 2007
-[AudioMix]: 2006
-[*sync*/com.google.android.apps.magazines/com.google/test3alcatel14@gmail.com]: 1953
-[Icing]: 1943
-[*sync*/com.android.chrome/com.google/test3alcatel14@gmail.com]: 1923
-[*sync*/com.google.android.music.MusicContent/com.google/test3alcatel14@gmail.com]: 1889
-[DownloadManager]: 1827
-[hangouts_rtcs]: 1703
-[DownloadManager]: 1652
-[DownloadManager]: 1585
-[Icing]: 1577
-[DownloadManager]: 1534
-[Icing]: 1493
-[DownloadManager]: 1403
-[DownloadManager]: 1394
-[DownloadManager]: 1353
-[DownloadManager]: 1346
-[mandatory_sync]: 1344
-[GpsLocationProvider]: 1343
-[Icing]: 1328
-[DownloadManager]: 1210
-[NlpWakeLock]: 1176
-[DownloadManager]: 1174
-[Icing]: 1159
-[DownloadManager]: 1135
-[DownloadManager]: 1097
-[DownloadManager]: 1085
-[DownloadManager]: 1079
-[DownloadManager]: 1032
-[DownloadManager]: 1006
-[DownloadManager]: 967
-[DownloadManager]: 915
-[DownloadManager]: 850
-[*net_scheduler*/com.google.android.gms:.ads.social.GcmSchedulerWakeupService]: 849
-[DownloadManager]: 825
-[UlrDispatchingService]: 822
-[atj]: 810
-[DownloadManager]: 792
-[DownloadManager]: 772
-[*sync*/com.google.android.gms.games.background/com.google/test3alcatel14@gmail.com]: 771
-[DownloadManager]: 755
-[DownloadManager]: 754
-[DownloadManager]: 680
-[DownloadManager]: 676
-[DownloadManager]: 657
-[DownloadManager]: 649
-[DownloadManager]: 616
-[RILJ]: 381
-[*sync*/com.google.android.gms.plus.action/com.google/test3alcatel14@gmail.com]: 241
-[UlrDispatchingService]: 238
-[Icing]: 232
-[Icing]: 221
-[RILJ]: 218
-[SyncManagerHandleSyncAlarm]: 205
-[*net_scheduler*]: 169
-[show keyguard]: 163
-[LocationManagerService]: 151
-[NetworkStats]: 149
-[hangouts_rtcs]: 144
-[Wakeful StateMachine: GeofencerStateMachine]: 142
-[wake:com.google.android.gms/.auth.be.change.LoginAccountsChangedIntentService]: 137
-[Event Log Service]: 117
-[NlpWakeLock]: 116
-[GCoreFlp]: 115
-[TimedEventQueue]: 109
-[TimedEventQueue]: 109
-[RILJ]: 107
-[MediaScannerService]: 106
-[RILJ]: 104
-[LocationManagerService]: 102
-[hangouts_rtcs]: 98
-[MediaScannerService]: 88
-[fingerprint_scanner_local]: 88
-[GCMSEND]: 86
-[GCM_LIB]: 83
-[RingtonePlayer]: 80
-[Icing]: 77
-[Event Log Service]: 73
-[NlpWakeLock]: 70
-[RingtonePlayer]: 68
-[NlpWakeLock]: 65
-[wake:com.google.android.apps.plus/.service.CameraMonitor$MediaTrackerIntentService]: 63
-[RILJ]: 62
-[LocationManagerService]: 61
-[GCM_CONN]: 60
-[GOOGLE_C2DM]: 58
-[MediaScannerService]: 55
-[LocationManagerService]: 55
-[Checkin Service]: 48
-[NlpWakeLock]: 43
-[NlpWakeLock]: 41
-[ActivityManager-Sleep]: 37
-[MediaScannerService]: 36
-[NlpWakeLock]: 36
-[GCM_LIB]: 34
-[ScheduleNextAlarmWakeLock]: 29
-[NlpWakeLock]: 28
-[GCoreFlp]: 28
-[RILJ]: 26
-[AsyncService]: 22
-[fingerprint_scanner_static]: 20
-[RILJ]: 20
-[GCM_HB_ALARM]: 20
-[NlpWakeLock]: 20
-[RingtonePlayer]: 19
-[GCM_HB_ALARM]: 18
-[NlpWakeLock]: 17
-[WifiSuspend]: 17
-[Event Log Handoff]: 16
-[Icing]: 16
-[*net_scheduler*]: 14
-[DownloadManager]: 13
-[GCM_CONN]: 11
-[*net_scheduler*]: 11
-[NlpWakeLock]: 11
-[NlpWakeLock]: 10
-[wake:com.google.android.gms/.mdm.services.SitrepService]: 10
-[GCoreFlp]: 10
-[NlpWakeLock]: 10
-[NlpWakeLock]: 10
-[GCM_CONN]: 10
-[Checkin Handoff]: 10
-[Event Log Handoff]: 9
-[NlpWakeLock]: 9
-[RILJ]: 9
-[RILJ]: 8
-[NlpWakeLock]: 8
-[GCM_HB_ALARM]: 8
-[NlpWakeLock]: 8
-[AsyncService]: 8
-[*net_scheduler*]: 7
-[*net_scheduler*]: 7
-[Wakeful StateMachine: GeofencerStateMachine]: 7
-[Wakeful StateMachine: GeofencerStateMachine]: 7
-[NlpWakeLock]: 7
-[*net_scheduler*]: 6
-[*net_scheduler*]: 6
-[GCoreFlp]: 6
-[Checkin Handoff]: 6
-[NlpWakeLock]: 6
-[com.google.android.music.playback.LocalDevicePlayback.mAsyncWakeLock]: 5
-[*net_scheduler*]: 5
-[NlpWakeLock]: 5
-[RILJ]: 5
-[*net_scheduler*]: 5
-[*net_scheduler*]: 3
-[GCoreFlp]: 3
-[NlpWakeLock]: 3
-[NlpWakeLock]: 3
-[GCoreFlp]: 3
-[*net_scheduler*]: 3
-[GCoreFlp]: 3
-[*net_scheduler*]: 2
-[NlpWakeLock]: 2
-[NlpWakeLock]: 2
-[com.google.android.music.playback.LocalAsyncMediaPlayer]: 2
-[*net_scheduler*]: 2
-[NlpWakeLock]: 2
-[NlpWakeLock]: 2
-[Wakeful StateMachine: GeofencerStateMachine]: 2
-[*net_scheduler*]: 2
-[com.google.android.music.playback.LocalDevicePlayback.mAsyncWakeLock]: 2
-[*net_scheduler*]: 2
-[*net_scheduler*]: 1
-[Wakeful StateMachine: GeofencerStateMachine]: 1
-[LocationManagerService]: 0
+[AudioIn] total_time: 886401ms percentage:90.9132%
+[NlpCollectorWakeLock] total_time: 72058ms percentage:7.3906%
+[GpsLocationProvider] total_time: 4087ms percentage:0.4192%
+[AlarmManager] total_time: 2549ms percentage:0.2614%
+[NlpWakeLock] total_time: 2272ms percentage:0.233%
+[*sync*/com.google.android.apps.plus.content.EsProvider/com.google/test3alcatel14@gmail.com] total_time: 2027ms percentage:0.2079%
+[ActivityManager-Launch] total_time: 1377ms percentage:0.1412%
+[*backup*] total_time: 1299ms percentage:0.1332%
+[RILJ] total_time: 1027ms percentage:0.1053%
+[LocationManagerService] total_time: 696ms percentage:0.0714%
+[MediaScannerService] total_time: 302ms percentage:0.031%
+[*vibrator*] total_time: 255ms percentage:0.0262%
+[GCoreFlp] total_time: 153ms percentage:0.0157%
+[Event Log Service] total_time: 91ms percentage:0.0093%
+[UlrDispatchingService] total_time: 87ms percentage:0.0089%
+[wake:com.google.android.apps.plus/.service.CameraMonitor$MediaTrackerIntentService] total_time: 77ms percentage:0.0079%
+[NetworkStats] total_time: 57ms percentage:0.0058%
+[SyncLoopWakeLock] total_time: 43ms percentage:0.0044%
+[*net_scheduler*] total_time: 37ms percentage:0.0038%
+[GCM_CONN] total_time: 32ms percentage:0.0033%
+[GCM_HB_ALARM] total_time: 21ms percentage:0.0022%
+[SyncManagerHandleSyncAlarm] total_time: 19ms percentage:0.0019%
+[DownloadManager] total_time: 16ms percentage:0.0016%
+[Event Log Handoff] total_time: 14ms percentage:0.0014%
