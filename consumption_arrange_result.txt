@@ -1,24 +1,86 @@
-[AudioIn] total_time: 886401ms percentage:90.9132%
-[NlpCollectorWakeLock] total_time: 72058ms percentage:7.3906%
-[GpsLocationProvider] total_time: 4087ms percentage:0.4192%
-[AlarmManager] total_time: 2549ms percentage:0.2614%
-[NlpWakeLock] total_time: 2272ms percentage:0.233%
-[*sync*/com.google.android.apps.plus.content.EsProvider/com.google/test3alcatel14@gmail.com] total_time: 2027ms percentage:0.2079%
-[ActivityManager-Launch] total_time: 1377ms percentage:0.1412%
-[*backup*] total_time: 1299ms percentage:0.1332%
-[RILJ] total_time: 1027ms percentage:0.1053%
-[LocationManagerService] total_time: 696ms percentage:0.0714%
-[MediaScannerService] total_time: 302ms percentage:0.031%
-[*vibrator*] total_time: 255ms percentage:0.0262%
-[GCoreFlp] total_time: 153ms percentage:0.0157%
-[Event Log Service] total_time: 91ms percentage:0.0093%
-[UlrDispatchingService] total_time: 87ms percentage:0.0089%
-[wake:com.google.android.apps.plus/.service.CameraMonitor$MediaTrackerIntentService] total_time: 77ms percentage:0.0079%
-[NetworkStats] total_time: 57ms percentage:0.0058%
-[SyncLoopWakeLock] total_time: 43ms percentage:0.0044%
-[*net_scheduler*] total_time: 37ms percentage:0.0038%
-[GCM_CONN] total_time: 32ms percentage:0.0033%
-[GCM_HB_ALARM] total_time: 21ms percentage:0.0022%
-[SyncManagerHandleSyncAlarm] total_time: 19ms percentage:0.0019%
-[DownloadManager] total_time: 16ms percentage:0.0016%
-[Event Log Handoff] total_time: 14ms percentage:0.0014%
+*****WAKELOCK_TOTAL_TIME_COUNTING*****
+
+[*sync*/gmail-ls/com.google/test3alcatel14@gmail.com] total_time: 30924ms percentage:11.0922%
+[DownloadManager] total_time: 30833ms percentage:11.0595%
+[AudioMix] total_time: 29127ms percentage:10.4476%
+[*sync*/com.android.contacts/com.google/test3alcatel14@gmail.com] total_time: 22302ms percentage:7.9995%
+[StartingAlertService] total_time: 15331ms percentage:5.4991%
+[*sync*/com.google.android.apps.plus.content.EsProvider/com.google/test3alcatel14@gmail.com] total_time: 11893ms percentage:4.2659%
+[*sync*/com.google.android.gms.people/com.google/test3alcatel14@gmail.com] total_time: 11638ms percentage:4.1745%
+[Icing] total_time: 11325ms percentage:4.0622%
+[SyncLoopWakeLock] total_time: 11059ms percentage:3.9668%
+[*sync*/subscribedfeeds/com.google/test3alcatel14@gmail.com] total_time: 10856ms percentage:3.894%
+[ActivityManager-Launch] total_time: 8152ms percentage:2.9241%
+[*backup*] total_time: 7005ms percentage:2.5126%
+[*sync*/com.google.android.apps.photos.GooglePhotoDownsyncProvider/com.google/test3alcatel14@gmail.com] total_time: 6337ms percentage:2.273%
+[*sync*/com.google.android.apps.docs/com.google/test3alcatel14@gmail.com] total_time: 6020ms percentage:2.1593%
+[*sync*/com.google.android.apps.books/com.google/test3alcatel14@gmail.com] total_time: 5181ms percentage:1.8584%
+[*sync*/com.android.calendar/com.google/test3alcatel14@gmail.com] total_time: 4793ms percentage:1.7192%
+[SyncManager] total_time: 4664ms percentage:1.6729%
+[*sync*/com.google.android.videos.sync/com.google/test3alcatel14@gmail.com] total_time: 4432ms percentage:1.5897%
+[*sync*/com.google.android.gms.games/com.google/test3alcatel14@gmail.com] total_time: 4157ms percentage:1.4911%
+[*sync*/com.google.android.apps.plus.iu.EsGoogleIuProvider/com.google/test3alcatel14@gmail.com] total_time: 3846ms percentage:1.3795%
+[*vibrator*] total_time: 2797ms percentage:1.0033%
+[AlarmManager] total_time: 2758ms percentage:0.9893%
+[Checkin Service] total_time: 2554ms percentage:0.9161%
+[WindowManager] total_time: 2271ms percentage:0.8146%
+[*sync*/com.google.android.gms.appstate/com.google/test3alcatel14@gmail.com] total_time: 2249ms percentage:0.8067%
+[BackgroundTaskService] total_time: 2129ms percentage:0.7637%
+[*sync*/com.google.android.location.reporting/com.google/test3alcatel14@gmail.com] total_time: 2102ms percentage:0.754%
+[GmailProviderProviderChangedBroadcastWakeLock] total_time: 2091ms percentage:0.75%
+[*sync*/com.google.android.apps.magazines/com.google/test3alcatel14@gmail.com] total_time: 1953ms percentage:0.7005%
+[hangouts_rtcs] total_time: 1945ms percentage:0.6977%
+[*sync*/com.android.chrome/com.google/test3alcatel14@gmail.com] total_time: 1923ms percentage:0.6898%
+[*sync*/com.google.android.music.MusicContent/com.google/test3alcatel14@gmail.com] total_time: 1889ms percentage:0.6776%
+[NlpWakeLock] total_time: 1710ms percentage:0.6134%
+[mandatory_sync] total_time: 1344ms percentage:0.4821%
+[GpsLocationProvider] total_time: 1343ms percentage:0.4817%
+[UlrDispatchingService] total_time: 1060ms percentage:0.3802%
+[RILJ] total_time: 940ms percentage:0.3372%
+[*net_scheduler*/com.google.android.gms:.ads.social.GcmSchedulerWakeupService] total_time: 849ms percentage:0.3045%
+[atj] total_time: 810ms percentage:0.2905%
+[*sync*/com.google.android.gms.games.background/com.google/test3alcatel14@gmail.com] total_time: 771ms percentage:0.2766%
+[LocationManagerService] total_time: 369ms percentage:0.1324%
+[MediaScannerService] total_time: 285ms percentage:0.1022%
+[*net_scheduler*] total_time: 245ms percentage:0.0879%
+[*sync*/com.google.android.gms.plus.action/com.google/test3alcatel14@gmail.com] total_time: 241ms percentage:0.0864%
+[TimedEventQueue] total_time: 218ms percentage:0.0782%
+[SyncManagerHandleSyncAlarm] total_time: 205ms percentage:0.0735%
+[Event Log Service] total_time: 190ms percentage:0.0682%
+[GCoreFlp] total_time: 168ms percentage:0.0603%
+[RingtonePlayer] total_time: 167ms percentage:0.0599%
+[show keyguard] total_time: 163ms percentage:0.0585%
+[Wakeful StateMachine: GeofencerStateMachine] total_time: 159ms percentage:0.057%
+[NetworkStats] total_time: 149ms percentage:0.0534%
+[wake:com.google.android.gms/.auth.be.change.LoginAccountsChangedIntentService] total_time: 137ms percentage:0.0491%
+[GCM_LIB] total_time: 117ms percentage:0.042%
+[fingerprint_scanner_local] total_time: 88ms percentage:0.0316%
+[GCMSEND] total_time: 86ms percentage:0.0308%
+[GCM_CONN] total_time: 81ms percentage:0.0291%
+[wake:com.google.android.apps.plus/.service.CameraMonitor$MediaTrackerIntentService] total_time: 63ms percentage:0.0226%
+[GOOGLE_C2DM] total_time: 58ms percentage:0.0208%
+[GCM_HB_ALARM] total_time: 46ms percentage:0.0165%
+[ActivityManager-Sleep] total_time: 37ms percentage:0.0133%
+[AsyncService] total_time: 30ms percentage:0.0108%
+[ScheduleNextAlarmWakeLock] total_time: 29ms percentage:0.0104%
+[Event Log Handoff] total_time: 25ms percentage:0.009%
+[fingerprint_scanner_static] total_time: 20ms percentage:0.0072%
+[WifiSuspend] total_time: 17ms percentage:0.0061%
+[Checkin Handoff] total_time: 16ms percentage:0.0057%
+[wake:com.google.android.gms/.mdm.services.SitrepService] total_time: 10ms percentage:0.0036%
+[com.google.android.music.playback.LocalDevicePlayback.mAsyncWakeLock] total_time: 7ms percentage:0.0025%
+[com.google.android.music.playback.LocalAsyncMediaPlayer] total_time: 2ms percentage:0.0007%
+
+
+*****WAKEUP ALARM TIMES COUNTING*****
+
+com.google.android.apps.plus:25
+com.google.android.gms:18
+com.android.phone:15
+com.google.android.talk:5
+android:5
+com.android.vending:2
+com.google.android.googlequicksearchbox:2
+com.android.keyguard:2
+com.android.providers.calendar:1
+com.tmobile.pr.mytmobile:1
